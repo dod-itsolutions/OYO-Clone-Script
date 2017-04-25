@@ -1,4 +1,4 @@
-# OYO-Clone-Script
+# OYO Clone Script
 <i>Best Hotel Clone Script</i>
 
 A popular Hotel Website for you consisting of Multi-vendor option. Our OYO Clone Script has all the relevant features such as Room / Reservation Management, Secure Payment Methods, Standardized Amenities, Recommended Destinations, Multi – Language and Currency Support etc… which would result in bringing a hike to your business career. Every business wish to be one or other way the same and if you want to start a site over the Internet using a web browser without any damage so this will be the best way you have chosen.
